@@ -1,16 +1,24 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: SV IST # Your GitHub organization or username, where this repository lives
+repo: GPU monitoring # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: IDC-BB1
+    url: https://10.50.20.105
+  - name: IDC-BB2
+    url: https://10.50.20.106
+  - name: IDC-BackupSVR
+    url: https://10.50.20.127
+  - name: IDC-ClusterSVR
+    url: https://10.50.20.129
+  - name: STT-01
+    url: https://10.50.20.70
+  - name: STT-02
+    url: https://10.50.20.71
+  - name: STT-03
+    url: https://10.50.20.72
+  - name: STT-04
+    url: https://10.50.20.73
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
