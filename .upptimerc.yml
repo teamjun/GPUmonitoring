@@ -25,7 +25,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /GPUmonitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: GPUmonitoring
   introTitle: "Network status"
   introMessage: 서버 상태 확인
   navbar:
