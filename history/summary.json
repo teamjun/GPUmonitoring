@@ -1,8 +1,8 @@
 [
   {
     "name": "IDC-BB1",
-    "url": "https://10.50.20.105",
-    "icon": "https://icons.duckduckgo.com/ip3/10.50.20.105.ico",
+    "url": "10.50.20.105",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "idc-bb-1",
     "status": "down",
     "uptime": "0.04%",
@@ -16,14 +16,14 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 158,
+      "2023-01-06": 171,
       "2023-01-05": 1086
     }
   },
   {
     "name": "IDC-BB2",
-    "url": "https://10.50.20.106",
-    "icon": "https://icons.duckduckgo.com/ip3/10.50.20.106.ico",
+    "url": "10.50.20.106",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "idc-bb-2",
     "status": "down",
     "uptime": "0.04%",
@@ -37,14 +37,14 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 158,
+      "2023-01-06": 171,
       "2023-01-05": 1085
     }
   },
   {
     "name": "IDC-BackupSVR",
-    "url": "https://10.50.20.127",
-    "icon": "https://icons.duckduckgo.com/ip3/10.50.20.127.ico",
+    "url": "10.50.20.127",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "idc-backup-svr",
     "status": "down",
     "uptime": "0.04%",
@@ -58,14 +58,14 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 158,
+      "2023-01-06": 171,
       "2023-01-05": 1085
     }
   },
   {
     "name": "IDC-ClusterSVR",
-    "url": "https://10.50.20.129",
-    "icon": "https://icons.duckduckgo.com/ip3/10.50.20.129.ico",
+    "url": "10.50.20.129",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "idc-cluster-svr",
     "status": "down",
     "uptime": "0.04%",
@@ -79,14 +79,14 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 158,
+      "2023-01-06": 171,
       "2023-01-05": 1084
     }
   },
   {
     "name": "STT-01",
-    "url": "https://10.50.20.70",
-    "icon": "https://icons.duckduckgo.com/ip3/10.50.20.70.ico",
+    "url": "10.50.20.70",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stt-01",
     "status": "down",
     "uptime": "0.04%",
@@ -100,14 +100,14 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 158,
+      "2023-01-06": 171,
       "2023-01-05": 1084
     }
   },
   {
     "name": "STT-02",
-    "url": "https://10.50.20.71",
-    "icon": "https://icons.duckduckgo.com/ip3/10.50.20.71.ico",
+    "url": "10.50.20.71",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stt-02",
     "status": "down",
     "uptime": "0.04%",
@@ -121,14 +121,14 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 158,
+      "2023-01-06": 171,
       "2023-01-05": 1083
     }
   },
   {
     "name": "STT-03",
-    "url": "https://10.50.20.72",
-    "icon": "https://icons.duckduckgo.com/ip3/10.50.20.72.ico",
+    "url": "10.50.20.72",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stt-03",
     "status": "down",
     "uptime": "0.04%",
@@ -142,14 +142,14 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 158,
+      "2023-01-06": 171,
       "2023-01-05": 1083
     }
   },
   {
     "name": "STT-04",
-    "url": "https://10.50.20.73",
-    "icon": "https://icons.duckduckgo.com/ip3/10.50.20.73.ico",
+    "url": "10.50.20.73",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stt-04",
     "status": "down",
     "uptime": "0.04%",
@@ -163,7 +163,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-06": 158,
+      "2023-01-06": 171,
       "2023-01-05": 1082
     }
   }
