@@ -2,11 +2,11 @@
 
 This repository contains the open-source uptime monitor and status page for [SV IST](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
-[![Uptime CI](https://github.com/SV IST/GPU monitoring/workflows/Uptime%20CI/badge.svg)](https://github.com/SV IST/GPU monitoring/actions?query=workflow%3A%22Uptime+CI%22)
-[![Response Time CI](https://github.com/SV IST/GPU monitoring/workflows/Response%20Time%20CI/badge.svg)](https://github.com/SV IST/GPU monitoring/actions?query=workflow%3A%22Response+Time+CI%22)
-[![Graphs CI](https://github.com/SV IST/GPU monitoring/workflows/Graphs%20CI/badge.svg)](https://github.com/SV IST/GPU monitoring/actions?query=workflow%3A%22Graphs+CI%22)
-[![Static Site CI](https://github.com/SV IST/GPU monitoring/workflows/Static%20Site%20CI/badge.svg)](https://github.com/SV IST/GPU monitoring/actions?query=workflow%3A%22Static+Site+CI%22)
-[![Summary CI](https://github.com/SV IST/GPU monitoring/workflows/Summary%20CI/badge.svg)](https://github.com/SV IST/GPU monitoring/actions?query=workflow%3A%22Summary+CI%22)
+[![Uptime CI](https://github.com/teamjun/GPU monitoring/workflows/Uptime%20CI/badge.svg)](https://github.com/teamjun/GPU monitoring/actions/workflows/uptime.yml)
+[![Response Time CI](https://github.com/teamjun/GPU monitoring/workflows/Response%20Time%20CI/badge.svg)](https://github.com/teamjun/GPU monitoring/actions/workflows/response-time.yml)
+[![Graphs CI](https://github.com/teamjun/GPU monitoring/workflows/Graphs%20CI/badge.svg)](https://github.com/teamjun/GPU monitoring/actions/workflows/graphs.yml)
+[![Static Site CI](https://github.com/teamjun/GPU monitoring/workflows/Static%20Site%20CI/badge.svg)](https://github.com/teamjun/GPU monitoring/actions/workflows/site.yml)
+[![Summary CI](https://github.com/teamjun/GPU monitoring/workflows/Summary%20CI/badge.svg)](https://github.com/teamjun/GPU monitoring/actions/workflows/summary.yml)
 
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/SV IST/GPU monitoring/issues) as incident reports, [Actions](https://github.com/SV IST/GPU monitoring/actions) as uptime monitors, and [Pages](https://demo.upptime.js.org) for the status page.
 
